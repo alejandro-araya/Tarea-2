@@ -26,6 +26,6 @@ public class PrimeNumbers {
              if(counter > squareRootFromUsersNumbers) {
                 System.out.println("The number is prime.");
             }//if
-        }
+        }//while
     }//main
 }//Class PrimeNumbers end
